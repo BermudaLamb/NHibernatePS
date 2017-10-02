@@ -1,8 +1,8 @@
 ﻿cls
-$env:APPLICATIONPATH = "C:\Users\thoml\Documents\Visual Studio 2015\Projects\NHQuickStart\"
+$env:APPLICATIONPATH = "YourApplicationPath"
+$env:SERVER = "YourServer"
 $env:ASSEMBLY = "NHQuickStart"
 $env:NAMESPACE = "NHQuickStart.Models"
-$env:SERVER = "NewEnvy\SQLExpress"
 $env:DATABASE = "AdventureWorks"
 $env:SCHEMATOPATH = "Y"
 $env:FORCE = "Y"
